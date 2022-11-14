@@ -1,0 +1,1 @@
+To run, all of the files go in the make directory except for symtab.h, which needs to go in the include directory referenced by make (/home/compilers/cool/include/PA5). This file needed modification to add cloning and flattening methods for symbol tables.
